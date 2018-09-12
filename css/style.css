@@ -1,0 +1,20 @@
+ body {
+  margin-top: 20px;
+} 
+
+/*#header {
+	font-family: 'Shrikhand', cursive;
+	font-size: 4rem;
+}*/
+
+p {
+    font-family: 'Roboto Slab', serif;
+}
+
+img {
+	border-radius: 2%;
+}
+
+/*.mt-0 {
+	margin-top: ($spacer * .5) !important;
+}*/
