@@ -1,18 +1,10 @@
-/*Mobile*/
-
-@media (max-width: 480px) {
-    body {
-    	margin-top: 20px;
-    }
-}
-
 /*Desktop/Large Screen*/
 
  body {
   margin-top: 100px;
 } 
 
-p {
+p, h1 {
     font-family: 'Roboto Slab', serif;
 }
 
@@ -20,5 +12,16 @@ img {
 	border-radius: 2%;
 }
 
+/*Mobile*/
+
+@media (max-width: 480px) {
+    body {
+    	margin-top: 20px;
+    }
+
+    .mt {
+    	margin-top: 10px;
+    }
+}
 
 
