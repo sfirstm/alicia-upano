@@ -1,3 +1,13 @@
+/*Mobile*/
+
+@media (max-width: 480px) {
+    body {
+    	margin-top: 20px;
+    }
+}
+
+/*Desktop/Large Screen*/
+
  body {
   margin-top: 100px;
 } 
@@ -10,9 +20,5 @@ img {
 	border-radius: 2%;
 }
 
-@media (max-width: 480px) {
-    body {
-    	margin-top: 20px;
-    }
-}
+
 
