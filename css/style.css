@@ -10,6 +10,8 @@ p, h1 {
 
 img {
 	border-radius: 2%;
+    width: 20rem;
+    margin-bottom: 1rem;
 }
 
 /*Mobile*/
